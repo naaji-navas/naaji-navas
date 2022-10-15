@@ -1,16 +1,15 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Naaji </h1>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-Reserch-brightgreen" />
+<img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Lives-Kerala-success" />
-  <img src="https://komarev.com/ghpvc/?username=rohittp0&color=brightgreen&style=flat-square" alt="views on github" />
+  <img src="https://komarev.com/ghpvc/?username=naaji-navas&color=brightgreen&style=flat-square" alt="views on github" />
   <img src="https://img.shields.io/github/followers/naaji-navas.svg?style=social&label=Followers" />
 </p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Welcone+to+my+profile+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=39FF14&vCenter=true&width=650&lines=Welcome+to+my+profile+%F0%9F%98%81)](https://git.io/typing-svg)
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
