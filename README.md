@@ -62,8 +62,7 @@
 &emsp;
      <img alt="Flutter" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   &emsp; 
-    <img alt="Keras" src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow"/>
-  &emsp;
+
 </p>
 
 ### 👉 Databases & Cloud Hosting
