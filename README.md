@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Naaji </h1>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Lives-Kerala-success" />
   <img src="https://komarev.com/ghpvc/?username=naaji-navas&color=brightgreen&style=flat-square" alt="views on github" />
   <img src="https://img.shields.io/github/followers/naaji-navas.svg?style=social&label=Followers" />
