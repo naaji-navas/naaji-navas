@@ -15,8 +15,8 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently learning new stuffs
-- 🏢 I’m currently working at Shuffle Smart.
+- 🔭 I’m currently learning new pieces of stuff
+- 🏢 I’m currently working as a Software Developer Intern at Data Equinox.
 
 <p>Connect with me on
 <br>	
