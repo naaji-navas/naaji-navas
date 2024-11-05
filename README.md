@@ -22,7 +22,7 @@
   
 <p>Connect with me on:</p>
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/naaji-navas-795aa2238/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/naaji-navas/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   &emsp;
   <a target="_blank" href="mailto:najidnavas2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </p>
